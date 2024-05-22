@@ -4,7 +4,7 @@ import os
 class SpeechToText:
     def process(self):
 
-        absoluteFilePath = input("Enter absolute filepath for translation: ")
+        absoluteFilePath = input("Enter absolute filepath of directory containing files for translation: ")
         open('output.txt','w').close()
 
         success = 0
