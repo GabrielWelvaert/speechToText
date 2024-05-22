@@ -1,3 +1,3 @@
 # speechToText
 
-A useful python script for translating audio to english utilizing the SpeechRecognition library
+A useful cmd-line program for translating audio to english utilizing the SpeechRecognition library
